@@ -15,7 +15,7 @@
         {
             "Name": "main",
             "Source": "https://github.com/ScoopInstaller/Main",
-            "Updated": "2023-05-28T12:26:17+08:00",
+            "Updated": "2023-05-28T20:30:51+08:00",
             "Manifests": 1198
         },
         {
@@ -120,16 +120,16 @@
         {
             "Source": "nerd-fonts",
             "Name": "Meslo-NF",
-            "Version": "2.1.0",
+            "Version": "3.0.1",
             "Info": "",
-            "Updated": "2021-04-17T21:44:16.0676802+08:00"
+            "Updated": "2023-05-28T21:16:26.3772466+08:00"
         },
         {
             "Source": "main",
             "Name": "nvm",
-            "Version": "1.1.7",
+            "Version": "1.1.11",
             "Info": "",
-            "Updated": "2020-11-29T12:39:36.3432923+08:00"
+            "Updated": "2023-05-28T21:16:45.2085565+08:00"
         },
         {
             "Source": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json",
@@ -141,9 +141,9 @@
         {
             "Source": "java",
             "Name": "openjdk",
-            "Version": "16-36",
+            "Version": "20.0.1-9",
             "Info": "",
-            "Updated": "2021-04-17T19:55:36.8052227+08:00"
+            "Updated": "2023-05-28T21:17:12.1613321+08:00"
         },
         {
             "Source": "java",
@@ -155,30 +155,30 @@
         {
             "Source": "extras",
             "Name": "posh-git",
-            "Version": "1.0.0",
+            "Version": "1.1.0",
             "Info": "",
-            "Updated": "2021-04-17T23:59:19.6521444+08:00"
+            "Updated": "2023-05-28T21:17:19.4648327+08:00"
         },
         {
             "Source": "extras",
             "Name": "powertoys",
-            "Version": "0.55.2",
+            "Version": "0.70.0",
             "Info": "",
-            "Updated": "2022-03-07T12:07:48.4302259+08:00"
+            "Updated": "2023-05-28T21:18:03.546183+08:00"
         },
         {
             "Source": "main",
             "Name": "rustup",
-            "Version": "1.23.1",
+            "Version": "1.26.0",
             "Info": "",
-            "Updated": "2021-04-17T19:04:12.1698429+08:00"
+            "Updated": "2023-05-28T21:18:36.5805828+08:00"
         },
         {
             "Source": "main",
             "Name": "sbt",
-            "Version": "1.6.2",
+            "Version": "1.8.3",
             "Info": "",
-            "Updated": "2022-02-18T00:24:48.1559665+08:00"
+            "Updated": "2023-05-28T21:18:41.6172618+08:00"
         },
         {
             "Source": "main",
@@ -190,9 +190,9 @@
         {
             "Source": "main",
             "Name": "vim",
-            "Version": "8.2",
+            "Version": "9.0",
             "Info": "",
-            "Updated": "2020-09-17T00:56:28.5558509+08:00"
+            "Updated": "2023-05-28T21:18:53.4351707+08:00"
         },
         {
             "Source": "extras",

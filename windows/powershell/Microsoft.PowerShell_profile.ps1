@@ -13,5 +13,8 @@ $Env:WORKON_HOME = "D:\.virtualenvs"
 $Env:PIP_CACHE_DIR = "D:\cache"
 $Env:PIPENV_CACHE_DIR = "D:\cache"
 
+# venv disable default prompt
+$env:VIRTUAL_ENV_DISABLE_PROMPT=1
+
 # diable update check
 $Env:POWERSHELL_UPDATECHECK = "Off"
