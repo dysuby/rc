@@ -1,20 +1,205 @@
-7zip (v:19.00) [main]
-Cascadia-Code (v:2102.03) [nerd-fonts]
-dark (v:3.11.2) [main]
-git (v:2.31.1.windows.1) [main]
-go (v:1.16.3) [main]
-innounp (v:0.50) [main]
-lessmsi (v:1.8.1) [main]
-Meslo-NF (v:2.1.0) [nerd-fonts]
-nvm (v:1.1.7) [main]
-oh-my-posh (v:3.139.0) [https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json]
-openjdk (v:16-36) [java]
-posh-git (v:1.0.0) [extras]
-powertoys (v:0.21.1) [extras]
-pyenv (v:2.64.3) [main]
-python (v:3.9.4) [main]
-rustup (v:1.23.1) [main]
-sbt (v:1.5.0) [main]
-sudo (v:0.2020.01.26) [main]
-vim (v:8.2) [main]
-vscode (v:1.55.2) [extras]
+{
+    "apps": [
+        {
+            "Name": "7zip",
+            "Info": "",
+            "Updated": "2020-08-30T20:15:20.1493091+08:00",
+            "Version": "19.00",
+            "Source": "main"
+        },
+        {
+            "Name": "Cascadia-Code",
+            "Info": "",
+            "Updated": "2021-04-17T22:04:41.6727632+08:00",
+            "Version": "2102.03",
+            "Source": "nerd-fonts"
+        },
+        {
+            "Name": "cmake",
+            "Info": "",
+            "Updated": "2023-05-28T00:22:09.0284737+08:00",
+            "Version": "3.26.4",
+            "Source": "main"
+        },
+        {
+            "Name": "dark",
+            "Info": "",
+            "Updated": "2020-09-05T13:36:17.677349+08:00",
+            "Version": "3.11.2",
+            "Source": "main"
+        },
+        {
+            "Name": "ffmpeg",
+            "Info": "",
+            "Updated": "2023-05-27T13:28:37.6185573+08:00",
+            "Version": "6.0",
+            "Source": "main"
+        },
+        {
+            "Name": "git",
+            "Info": "",
+            "Updated": "2021-04-17T18:56:29.9143062+08:00",
+            "Version": "2.31.1.windows.1",
+            "Source": "main"
+        },
+        {
+            "Name": "go",
+            "Info": "",
+            "Updated": "2021-04-17T18:57:04.1313404+08:00",
+            "Version": "1.16.3",
+            "Source": "main"
+        },
+        {
+            "Name": "grpcurl",
+            "Info": "",
+            "Updated": "2022-03-20T17:36:44.7956696+08:00",
+            "Version": "1.8.6",
+            "Source": "main"
+        },
+        {
+            "Name": "haskell",
+            "Info": "",
+            "Updated": "2022-02-22T22:42:32.7112967+08:00",
+            "Version": "9.2.1",
+            "Source": "main"
+        },
+        {
+            "Name": "innounp",
+            "Info": "",
+            "Updated": "2021-04-17T19:29:58.9512754+08:00",
+            "Version": "0.50",
+            "Source": "main"
+        },
+        {
+            "Name": "lessmsi",
+            "Info": "",
+            "Updated": "2021-04-17T18:57:05.1138505+08:00",
+            "Version": "1.8.1",
+            "Source": "main"
+        },
+        {
+            "Name": "llvm",
+            "Info": "",
+            "Updated": "2023-05-28T00:21:49.4872363+08:00",
+            "Version": "16.0.4",
+            "Source": "main"
+        },
+        {
+            "Name": "maven",
+            "Info": "",
+            "Updated": "2022-02-22T22:35:07.7522058+08:00",
+            "Version": "3.8.4",
+            "Source": "main"
+        },
+        {
+            "Name": "Meslo-NF",
+            "Info": "",
+            "Updated": "2021-04-17T21:44:16.0676802+08:00",
+            "Version": "2.1.0",
+            "Source": "nerd-fonts"
+        },
+        {
+            "Name": "nvm",
+            "Info": "",
+            "Updated": "2020-11-29T12:39:36.3432923+08:00",
+            "Version": "1.1.7",
+            "Source": "main"
+        },
+        {
+            "Name": "oh-my-posh",
+            "Info": "",
+            "Updated": "2021-04-17T21:03:49.6361428+08:00",
+            "Version": "3.139.0",
+            "Source": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json"
+        },
+        {
+            "Name": "openjdk",
+            "Info": "",
+            "Updated": "2021-04-17T19:55:36.8052227+08:00",
+            "Version": "16-36",
+            "Source": "java"
+        },
+        {
+            "Name": "openjdk11",
+            "Info": "",
+            "Updated": "2022-05-27T23:23:29.690571+08:00",
+            "Version": "11.0.2-9",
+            "Source": "java"
+        },
+        {
+            "Name": "posh-git",
+            "Info": "",
+            "Updated": "2021-04-17T23:59:19.6521444+08:00",
+            "Version": "1.0.0",
+            "Source": "extras"
+        },
+        {
+            "Name": "powertoys",
+            "Info": "",
+            "Updated": "2022-03-07T12:07:48.4302259+08:00",
+            "Version": "0.55.2",
+            "Source": "extras"
+        },
+        {
+            "Name": "rustup",
+            "Info": "",
+            "Updated": "2021-04-17T19:04:12.1698429+08:00",
+            "Version": "1.23.1",
+            "Source": "main"
+        },
+        {
+            "Name": "sbt",
+            "Info": "",
+            "Updated": "2022-02-18T00:24:48.1559665+08:00",
+            "Version": "1.6.2",
+            "Source": "main"
+        },
+        {
+            "Name": "sudo",
+            "Info": "",
+            "Updated": "2021-04-17T21:43:43.2185152+08:00",
+            "Version": "0.2020.01.26",
+            "Source": "main"
+        },
+        {
+            "Name": "vim",
+            "Info": "",
+            "Updated": "2020-09-17T00:56:28.5558509+08:00",
+            "Version": "8.2",
+            "Source": "main"
+        },
+        {
+            "Name": "vscode",
+            "Info": "",
+            "Updated": "2023-05-22T19:21:49.0010403+08:00",
+            "Version": "1.78.2",
+            "Source": "extras"
+        }
+    ],
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://github.com/lukesampson/scoop-extras",
+            "Updated": "2023-05-27T20:30:36+08:00",
+            "Manifests": 1867
+        },
+        {
+            "Name": "java",
+            "Source": "https://github.com/ScoopInstaller/Java.git",
+            "Updated": "2023-05-27T16:16:24+08:00",
+            "Manifests": 253
+        },
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2023-05-27T16:26:07+08:00",
+            "Manifests": 1198
+        },
+        {
+            "Name": "nerd-fonts",
+            "Source": "https://github.com/matthewjberger/scoop-nerd-fonts.git",
+            "Updated": "2023-05-26T14:22:12+08:00",
+            "Manifests": 278
+        }
+    ]
+}
